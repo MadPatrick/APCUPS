@@ -1,9 +1,16 @@
 #!/usr/bin/env python
+# ORIGINAL AUTHOR Joerek van Gaalen
 """
 APC UPS Monitoring
 """
 """
 <plugin key="APCUPS" name="APC UPS" version="0.2" author="MadPatrick">
+    <description>
+	<br/><h2>APC UPS plugin</h2><br/>
+        version: 0.2
+        <br/>ORIGINAL AUTHOR Joerek van Gaalen
+        <br/>..
+    </description>
     <params>
         <param field="Address" label="Your APC UPS Address" width="200px" required="true" default="127.0.0.1"/>
         <param field="Port" label="Port" width="40px" required="true" default="3551"/>
