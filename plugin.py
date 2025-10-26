@@ -4,12 +4,15 @@
 APC UPS Monitoring
 """
 """
-<plugin key="APCUPS" name="APC UPS" version="0.2" author="MadPatrick">
+<plugin key="APCUPS" name="APC UPS" author="MadPatrick" version="1.0" externallink="https://github.com/MadPatrick/APCUPS">
     <description>
-	<br/><h2>APC UPS plugin</h2><br/>
-        version: 0.2
-        <br/>ORIGINAL AUTHOR Joerek van Gaalen
-        <br/>..
+	<br/><h2>APC UPS plugin</h2>
+        <br/>version: 1.0
+        <br/>
+        <br/>ORIGINAL AUTHOR : Joerek van Gaalen
+        <br/>https://github.com/jgaalen/domoticz-apc-ups-plugin
+        <br/>----------------------------------------------------------------------------------
+        <br/>
     </description>
     <params>
         <param field="Address" label="Your APC UPS Address" width="200px" required="true" default="127.0.0.1"/>
