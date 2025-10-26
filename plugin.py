@@ -4,7 +4,7 @@
 APC UPS Monitoring
 """
 """
-<plugin key="APCUPS" name="APC UPS" author="MadPatrick" version="1.0" externallink="https://github.com/MadPatrick/APCUPS">
+<plugin key="APCUPS" name="APC UPS" author="MadPatrick" version="1.0" externallink="https://github.com/MadPatrick/domoticz_apc_ups">
     <description>
 	<br/><h2>APC UPS plugin</h2>
         <br/>version: 1.0
